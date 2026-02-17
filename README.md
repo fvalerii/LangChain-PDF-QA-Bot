@@ -1,3 +1,5 @@
+# 🤖 Generative AI Q&A Engine: Retrieval-Augmented Generation (RAG)
+
 ## Capstone project: Construct a QA Bot that Leverages LangChain and LLMs to Answer Questions from Loaded Documents
 
 ### Objective
