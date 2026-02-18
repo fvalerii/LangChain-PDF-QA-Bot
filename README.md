@@ -1,4 +1,4 @@
-# 🤖 🤖 Enterprise Q&A Bot: Retrieval-Augmented Generation (RAG)
+# 🤖 Enterprise Q&A Bot: Retrieval-Augmented Generation (RAG)
 
 ### *Generative AI Study with IBM Watsonx & LangChain*
 
